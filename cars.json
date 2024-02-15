@@ -1,6 +1,6 @@
 [
-  { "id": 1, "name": "Mercedes", "description": "2024 Model", "price": 28000 },
-  { "id": 2, "name": "BMW", "description": "2024 Model", "price": 25000 },
-  { "id": 4, "name": "Lamborghini", "description": "2022 Model", "price": 100000 },
-  { "id": 5, "name": "Bugatti", "description": "2025 Model", "price": 300000 }
+  { "id": 1708007122788, "name": "Bugatti", "description": "2025 Model", "price": 250000 },
+  { "id": 1708007147067, "name": "Lamborghini", "description": "2022 Model", "price": 100000 },
+  { "id": 1708007165496, "name": "BMW", "description": "2024 Model", "price": 25000 },
+  { "id": 1708007184610, "name": "Mercedes", "description": "2023 Model", "price": 28000 }
 ]
