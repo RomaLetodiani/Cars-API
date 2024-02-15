@@ -5,8 +5,6 @@ const path = require('path');
 
 const carsFilePath = path.join(__dirname, '..', 'cars.json');
 
-let carIndex = 1;
-
 const getCars = () => {
   return new Promise((resolve, reject) => {
     fs.readFile(carsFilePath, 'utf8', (err, data) => {
