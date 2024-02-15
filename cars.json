@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Mercedes", "description": "2024 Model", "price": 28000 },
+  { "id": 2, "name": "BMW", "description": "2024 Model", "price": 25000 },
+  { "id": 4, "name": "Lamborghini", "description": "2022 Model", "price": 100000 },
+  { "id": 5, "name": "Bugatti", "description": "2025 Model", "price": 300000 }
+]
